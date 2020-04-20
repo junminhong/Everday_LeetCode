@@ -1,6 +1,6 @@
-Reverse Integer
+# Reverse Integer
 
-題目如下
+# 題目如下：
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
@@ -37,7 +37,7 @@ ok我又要來中文解釋一下這題了
 
 [想了解更多可以點我](https://zh.wikipedia.org/wiki/%E6%95%B4%E6%95%B0_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
 
-解題思路：
+# 解題思路：
 
 剛了解過32bit的整數範圍後，我會先將系統進來的測資先進篩選也就是超過-2^31 ~ 2^31 - 1這個範圍就直接回傳0。
 

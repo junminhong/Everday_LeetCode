@@ -1,6 +1,6 @@
-TwoSum
+# TwoSum
 
-題目如下
+# 題目如下：
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -21,7 +21,7 @@ return [0, 1].
 
 重點來了要知道你不會使用到兩個元素兩次，然後你只會得到一組答案，要先知道重點解題時才會縮小範圍。
 
-解題思路：
+# 解題思路：
 
 我利用雙層迴圈的方式，讓陣列從頭到尾掃過一遍，去找到兩個元素是等於我們的目標值，找到之後就可以回傳解答了。
 
